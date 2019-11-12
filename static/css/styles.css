@@ -1,0 +1,177 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #eee;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: .01em;
+}
+
+body,
+input,
+select,
+textarea {
+  color: #555;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.5rem;
+}
+
+
+#name-tag {
+    margin-top: 2.5em;
+    margin-bottom: 1.5em;
+}
+
+#name-tag h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    line-height: 0.75em;
+    text-transform: uppercase;
+    letter-spacing: -0.10em;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+#name-tag h1.large-heading {
+    font-size: 8.0em;
+    color: #93908F;
+}
+
+#name-tag h1.medium-heading {
+    font-size: 7.0em;
+    color: #646161;
+}
+
+#name-tag h1.small-heading {
+    font-size: 2.6em;
+    color: #3F3D3C;
+}
+
+main{
+  margin: auto;
+  max-width: 50%;
+}
+
+h1.page-heading{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3.0em;
+  text-transform: uppercase;
+  letter-spacing: -0.10em;
+  color: #849324;
+}
+
+code{
+  background:#555;
+  color: #eee;
+/*  padding: 0.1em 0.7em;*/
+  text-shadow: 1px 1px 1px #000;
+}
+
+pre{
+  background:#555;
+  color: #eee;
+  padding: 0.7em 0.7em;
+  overflow: auto;
+}
+
+hr {
+  border: 0;
+  border-bottom: solid 1px #555;
+  margin: 2em 0;
+}
+
+h2 {
+  font-size: 2.0em;
+  margin-bottom: 0.3em;
+  margin-top: 1.5em;
+}
+
+a{
+  color: #415A77;
+}
+
+a:hover{
+  transition: color .2s linear;
+  color: #DF2935;
+}
+
+.icon {
+  display: inline-block;
+  width: 1.0em;
+  height: 1.0em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+footer {
+  margin-top: 5em;
+  text-align: center;
+  font-size: 1.6rem
+}
+
+footer a {
+  color: #777;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.box a {
+    padding: 1.4em;
+    display: block;
+    font-size: 2.5em
+}
+
+.box1 {
+  background: #D62828;
+}
+
+.box1 a {
+  color: #DD4f4f;
+}
+.box1 a:hover {
+  transition: color .3s linear;
+  color: #E88989;
+}
+
+.box2 {
+  background: #F77F00;
+}
+
+.box2 a {
+  color: #F8962E;
+}
+.box2 a:hover {
+  transition: color .3s linear;
+  color: #FAB973;
+}
+
+.box3 {
+  background: #849324;
+}
+
+.box3 a {
+  color: #9AA64B;
+}
+.box3 a:hover {
+  transition: color .3s linear;
+  color: #BBC487;
+}
+
+.index-content {
+  display: block;
+  max-width: 20em;
+}
