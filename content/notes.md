@@ -1,7 +1,7 @@
 ---
 title: "Notes"
 date: 2019-11-11T12:43:28+01:00
-draft: true
+draft: false
 ---
 
 ## Misc

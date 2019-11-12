@@ -1,7 +1,7 @@
 ---
 title: "Raspberry Pi notes"
 date: 2019-11-11T14:57:48+01:00
-draft: true
+draft: false
 ---
 This is my notes based on Raspberry Pi 3 running [Arch Linux](https://archlinuxarm.org/).
 
