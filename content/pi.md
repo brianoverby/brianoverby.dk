@@ -1,5 +1,5 @@
 ---
-title: "Raspberry Pi notes"
+title: "Raspberry Pi"
 date: 2019-11-11T14:57:48+01:00
 draft: false
 ---

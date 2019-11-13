@@ -5,7 +5,7 @@ body {
 }
 
 body {
-  background: #eee;
+  background: #ffffff;
   color: #555;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.3em;
@@ -86,12 +86,7 @@ h2 {
 }
 
 a{
-  color: #415A77;
-}
-
-a:hover{
-  transition: color .2s linear;
-  color: #DF2935;
+  color: #006fc6;
 }
 
 .icon {
