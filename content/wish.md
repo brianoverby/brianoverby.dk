@@ -9,4 +9,5 @@ draft: false
 - Fusion Multisport Tights -- [fusionsport.dk](https://www.fusionsport.dk/shop/loeb/herre/tights-shorts/fusion-c3-multisport-tights.aspx)
 - Langærmet svedundertrøje (Sensor Merino Active, st. L) -- [cykelpartner.dk](https://www.cykelpartner.dk/undertoej-herre/sensor-merino-active---merinoulds-undertroeje-med-lange-aermer---graa?var1=590341134)
 - AirPod Pro -- [apple.dk](https://www.apple.com/dk/shop/product/MWP22ZM/A/airpods-pro)
+- Logitech M570 trackball -- [pricerunner.dk](https://www.pricerunner.dk/pl/110-2644118/Mus/Logitech-M570-Sammenlign-Priser)
 - En million, evt. lidt brugt.
