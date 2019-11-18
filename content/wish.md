@@ -8,4 +8,5 @@ draft: false
 - M.2 SSD: Samsung 860 Evo -- [pricerunner.dk](https://www.pricerunner.dk/pl/36-4485640/Harddiske/Samsung-860-Evo-MZ-N6E500BW-500GB-Sammenlign-Priser)
 - Fusion Multisport Tights -- [fusionsport.dk](https://www.fusionsport.dk/shop/loeb/herre/tights-shorts/fusion-c3-multisport-tights.aspx)
 - Langærmet svedundertrøje (Sensor Merino Active, st. L) -- [cykelpartner.dk](https://www.cykelpartner.dk/undertoej-herre/sensor-merino-active---merinoulds-undertroeje-med-lange-aermer---graa?var1=590341134)
+- AirPod Pro -- [addple.dk](https://www.apple.com/dk/shop/product/MWP22ZM/A/airpods-pro)
 - En million, evt. lidt brugt.
