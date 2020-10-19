@@ -5,5 +5,6 @@ draft: false
 ---
 - AudioQuest Dragonfly Black -- [HiFiKlubben](https://www.hifiklubben.dk/stereo/da-konvertere/audioquest-dragonfly-black--da-konverter/)
 - TS100 loddekolbe med B2+BC2 spids -- [amazon.co.uk](https://www.amazon.co.uk/GoBuying-Programmable-Pocket-size-Soldering-Acceleration/dp/B072Z9B9YS/)
-- AirPod Pro -- [apple.dk](https://www.apple.com/dk/shop/product/MWP22ZM/A/airpods-pro)
+- Microplane Professional fint rivejern -- [kitchenone.dk](https://www.kitchenone.dk/produkt/microplane-professional-fint-rivejern/)
+- Fiskars Functional Form Ballonpiskeris -- [kitchentime.dk](https://www.kitchentime.dk/p/ff-pisker)
 - En million, evt. lidt brugt.
