@@ -7,4 +7,5 @@ draft: false
 - TS100 loddekolbe -- [amazon.de](https://www.amazon.de/-/en/SainSmart-ToolPAC-TS100-Smart-Soldering/dp/B0183RJIUE/)
 - Microplane Professional fint rivejern -- [kitchenone.dk](https://www.kitchenone.dk/produkt/microplane-professional-fint-rivejern/)
 - Fiskars Functional Form Ballonpiskeris -- [kitchentime.dk](https://www.kitchentime.dk/p/ff-pisker)
+- Madtang, rustfri stål UDEN silikonebelægning.
 - En million, evt. lidt brugt.
