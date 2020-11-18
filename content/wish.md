@@ -8,4 +8,5 @@ draft: false
 - Microplane Professional fint rivejern -- [kitchenone.dk](https://www.kitchenone.dk/produkt/microplane-professional-fint-rivejern/)
 - Fiskars Functional Form Ballonpiskeris -- [kitchentime.dk](https://www.kitchentime.dk/p/ff-pisker)
 - Madtang, rustfri stål UDEN silikonebelægning.
+- Petzl Iko Core (Pandelampe til løb)
 - En million, evt. lidt brugt.
